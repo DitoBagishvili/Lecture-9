@@ -1,0 +1,122 @@
+header{
+    margin-top: 33px;
+    margin-bottom: 7px;
+}
+
+.container{
+    position: static;
+    margin: auto;
+    width: 1440px;
+
+}
+
+li{
+    display: inline-block;
+    margin-right: 50px;
+    
+}
+.imgx{
+    margin-top: 24px;
+    margin-left: 99px;
+}
+.lol{
+    margin-left: 800px;
+}
+
+.div1{
+    background-image:url(../images/photo1.jpg);
+    height: 606px;
+    margin-bottom: 50px;
+}
+.text0{
+    font-size: 17px;
+    margin-bottom: 15px;
+}
+ .text{ position: absolute;
+    font-size: 91px;
+    color: white;
+    margin-top: 238px;
+    margin-left: 427px;
+}
+.text1{
+    position: absolute;
+    align-items: center;
+    font-size: 22px;
+    margin-top: 360px;
+    margin-left: 553px;
+ 
+    color: white;
+}
+.flex{
+    display: flex;
+    justify-content: flex-end;
+
+}
+.img4{
+    margin-right: 98px;
+}
+.img3{
+    margin-left: 33px;
+    margin-right: 33px;
+}
+.div2{
+    position: relative;
+    width: 235px;
+    height: 115px;
+    top: 100px;
+    left: -60px
+}
+.div3{
+    position: relative;
+    left: -60px;
+}
+.h4{
+    position: absolute;
+}
+.h1{
+    position: absolute;
+    font-size: 30px;
+    margin-top: 30px;
+    width: 215px;
+    
+}
+.h0{
+    position: absolute;
+    font-size: 17px;
+    color: #636060;
+}
+.div4{
+    margin-top: 23px;
+    margin-left: 33px;
+    position: relative;
+    height: 95px;
+    width: 286px;
+    
+}
+
+.h5{
+    font-size: 20px;
+    font-weight: 500px;
+}
+.h6{
+    margin-top: 10px;
+    font-size: 18px;
+    color:#636060;
+}
+.h7{
+    font-size: 20px;
+    font-weight: 500px;
+}
+.div5{
+    
+    margin-top: 23px;
+    margin-left: 33px;
+    margin-right: 98px;
+    position: relative;
+    height: 95px;
+    width: 286px;
+    
+}
+.s-1{
+    margin-top: 53px ;
+}
